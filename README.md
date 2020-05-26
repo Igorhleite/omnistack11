@@ -13,7 +13,6 @@
 - Login da aplicação, onde a ONG precisa informar seu ID cadastrado para realizar Login.
 
 <h1 align="center">
-  ![Login](https://ibb.co/8dHF5GD "")
    <img alt="Casos" title="Casos" src="https://i.ibb.co/wwfDW8N/img-1.jpg" width="500px" />
 </h1>
 
