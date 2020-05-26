@@ -14,24 +14,25 @@
 
 <h1 align="center">
   ![Login](https://ibb.co/8dHF5GD "")
+   <img alt="Casos" title="Casos" src="https://i.ibb.co/wwfDW8N/img-1.jpg" width="500px" />
 </h1>
 
 - Tela onde são listados os casos das ONG's.
 
 <h1 align="center">
-  <img alt="Casos" title="Casos" src="https://ibb.co/tcZwQZR" width="500px" />
+  <img alt="Casos" title="Casos" src="https://i.ibb.co/WFDNGDC/img-3.jpg" width="500px" />
 </h1>
 
 - Cadastro nova ONG.
 
 <h1 align="center">
-  <img alt="cadastro" title="cadastro" src="https://ibb.co/HdRNZSb" width="500px" />
+  <img alt="cadastro" title="cadastro" src="https://i.ibb.co/FVcspry/img-4.jpg" width="500px" />
 </h1>
 
 - Cadastro novo caso.
 
 <h1 align="center">
-  <img alt="Novo Caso" title="novocaso" src="https://ibb.co/XJW00nr" width="500px" />
+  <img alt="Novo Caso" title="novocaso" src="https://i.ibb.co/ryQ88BR/img-2.jpg" width="500px" />
 </h1>
 
 ## :memo: License
