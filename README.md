@@ -16,7 +16,7 @@
    <img alt="Casos" title="Casos" src="https://i.ibb.co/wwfDW8N/img-1.jpg" width="500px" />
 </h1>
 
-- Tela onde são listados os casos das ONG's.
+- Tela onde são listados os casos das ONG's...
 
 <h1 align="center">
   <img alt="Casos" title="Casos" src="https://i.ibb.co/WFDNGDC/img-3.jpg" width="500px" />
